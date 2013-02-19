@@ -1,6 +1,3 @@
-/**
- *
- */
 package eu.optimis.test;
 
 import com.amazonaws.services.ec2.AmazonEC2;
@@ -20,9 +17,6 @@ import java.util.List;
 import java.util.Vector;
 import org.junit.Ignore;
 
-/**
- * @author csalcedo/hrasheed
- */
 public class AWSClientTest extends TestCase
 {
 
